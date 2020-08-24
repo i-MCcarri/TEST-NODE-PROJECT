@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index.js"
+    "start": "node index.js",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/i-MCcarri/TEST-NODE-PROJECT/issues"
   },
-  "homepage": "https://github.com/i-MCcarri/TEST-NODE-PROJECT#readme"
+  "homepage": "https://github.com/i-MCcarri/TEST-NODE-PROJECT#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-ui": "^1.12.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
