@@ -1,0 +1,20 @@
+{
+  "name": "test-node-project",
+  "version": "1.0.0",
+  "description": "this is just a test for node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-MCcarri/TEST-NODE-PROJECT.git"
+  },
+  "author": "Adyceum Magna Ccarri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-MCcarri/TEST-NODE-PROJECT/issues"
+  },
+  "homepage": "https://github.com/i-MCcarri/TEST-NODE-PROJECT#readme"
+}
